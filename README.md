@@ -1,2 +1,0 @@
-# UnityHosting
-Unity WebGL Hosting
